@@ -1,2 +1,2 @@
 # Python_turtle
-# draw a romantic heart using turtle library 
+# program to draw a romantic heart using turtle library in python
